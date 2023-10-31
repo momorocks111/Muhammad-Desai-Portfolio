@@ -121,7 +121,7 @@ body.light-theme {
   .nav__menu {
     position: fixed;
     left: 0;
-    top: -100%;
+    top: -1000%;
     width: 100%;
     padding-block: 64px;
     box-shadow: 0 0.125rem 1rem hsla(0, 0%, 0%, 0.1);
